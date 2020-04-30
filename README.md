@@ -1,1 +1,1 @@
-# ping-game
+# pig-game
